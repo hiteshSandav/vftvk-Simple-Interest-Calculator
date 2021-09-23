@@ -1,4 +1,20 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;font-family:Arial;color:white;width:500px}
+h1{color:grey;font-family:Verdana}
+.maindiv {
+    background-color:white;color:black;width:700px;padding:20px;border-radius:25px;align-self:center
+}
+.firstdiv {
+    padding-left:5em;
+    padding-top:1em
+}
+.seconddiv {
+    padding-left: 5em;
+    padding-top: 1em;
+    width: auto
+}
 
-
+span {
+    display:inline-flex;
+    width: 130px;
+    padding-bottom: 1em
+}
