@@ -18,3 +18,8 @@ span {
     width: 130px;
     padding-bottom: 1em
 }
+
+footer {
+    padding-top: 1em;
+    width: auto
+}
